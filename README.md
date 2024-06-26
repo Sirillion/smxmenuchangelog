@@ -4,8 +4,8 @@
 
 ## v1.0.309.0
 
-####Branch: Current Development
-####Released: UPCOMING
+#### Branch: Current Development
+#### Released: UPCOMING
 
 ADDED:
 - The new News Screen has been modded to fit the SMXmenu theme / feel.
