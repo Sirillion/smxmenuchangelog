@@ -1,0 +1,2 @@
+# smxmenuchangelog
+Changelogs for SMXmenu
