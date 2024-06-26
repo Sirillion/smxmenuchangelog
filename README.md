@@ -1,3 +1,3 @@
-# SMXmenu Changelogs
-# ==============================================
+# SMXmenu CHANGELOGS
+
 Changelogs for SMXmenu
