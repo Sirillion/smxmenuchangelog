@@ -4,8 +4,8 @@
 
 ## v1.0.309.0
 
-<p align="right">
-###Branch: Current Development - Released: UPCOMING
+<p align="left">
+Branch: Current Development <p align="right"> Released: UPCOMING
 </p>
 
 ADDED:
