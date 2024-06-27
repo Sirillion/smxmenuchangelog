@@ -4,19 +4,20 @@
 
 ## **v1.0.309.0**
 
-#### Branch: Current Development - Released: UPCOMING
+`Branch: Current Development - Released: UPCOMING`
 
 ADDED:
-- The new `News Screen` has been modded to fit the `SMXmenu` theme / feel.
-  - `Latest Version` has been added to the `News Screen`. It will update when a new version of the `SMX` main modlets are released and you can click it to go directly to the download area.
-  - `Optional Modlets` has been added to the `News Screen`.It will update when a new version of the `optional` modlets are released and you can click it to go directly to the download area.
-  - Warnings for missing `SMXcore` or `Quartz` which without `SMX` will not work. They show up in the `News Screen` and on the `Main Menu` as an icon. Mouseover to see the message.
-- Added the new `News Screen` button to the `Main Menu`.
+- The new News Screen has been modded to fit the SMXmenu theme / feel.
+  - `Latest Version` has been added to the News Screen. It will update when a new version of the SMX main modlets are released and you can click it to go directly to the download area.
+  - `Optional Modlets` has been added to the News Screen.It will update when a new version of the optional modlets are released and you can click it to go directly to the download area.
+  - Warnings for missing `SMXcore` or `Quartz` which without SMX will not work. They show up in the News Screen as a warning and on the Main Menu as an icon. Mouseover to see the message.
+- News Screen button added to the Main Menu.
 
 CHANGES:
 - The old changelog system has been completely re-written and integrated into the new `News Screen`.
-- Removed the `Main Menu` video background to reduce the size of `SMX`.
-- Added a new `Main Menu` background art.
+- Created a new Main Menu background art.
+- Removed the A21 Main Menu video background.
+- Introducing a new optional modlet with a new Main Menu video background created by Mumpfy for those that prefer an animated background.
 
 WORK IN PROGRESS:
-- Currently modding the `New Continue Game` windows.
+- Currently modding the New Continue Game windows.
