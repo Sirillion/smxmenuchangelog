@@ -16,7 +16,7 @@ ADDED:
 CHANGES:
 - The old changelog system has been completely re-written and integrated into the new `News Screen`.
 - Created a new Main Menu background art.
-- Removed the A21 Main Menu video background.
+- Removed the A21 Main Menu animated background.
 - Introducing a new optional modlet with a new Main Menu video background created by Mumpfy for those that prefer an animated background.
 
 WORK IN PROGRESS:
