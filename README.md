@@ -23,4 +23,7 @@
 - Updated to Quartz v3.0.0.
 
 ### WORK IN PROGRESS:
-- Currently modding the New Continue Game windows.
+- Currently modding: The Popup Message Box.
+  - Next up: The New Continue Game windows.
+    - Next up: The Generate New World window.
+      - Next up: The Options Menu.
