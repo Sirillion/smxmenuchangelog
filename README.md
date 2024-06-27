@@ -12,6 +12,7 @@
   - `Optional Modlets` has been added to the News Screen. It will update when a new version of the optional modlets are released and you can click it to go directly to the download area.
   - Warnings for missing `SMXcore` or `Quartz` which without SMX will not work. They show up in the News Screen as a warning and on the Main Menu as an icon. Mouseover to see the message.
 - News Screen button added to the Main Menu.
+- The Popup Message Box has been modded to fit the SMXmenu theme / feel.
 
 ### CHANGES:
 - The old changelog system has been completely re-written and integrated into the new `News Screen`.
@@ -23,7 +24,6 @@
 - Updated to Quartz v3.0.0.
 
 ### WORK IN PROGRESS:
-- Currently modding: The Popup Message Box.
-  - Next up: The New Continue Game windows.
+- Currently modding: The New Continue Game windows.
     - Next up: The Generate New World window.
       - Next up: The Options Menu.
