@@ -13,12 +13,16 @@
   - Warnings for missing `SMXcore` or `Quartz` which without SMX will not work. They show up in the News Screen as a warning and on the Main Menu as an icon. Mouseover to see the message.
 - News Screen button added to the Main Menu.
 - The Popup Message Box has been modded to fit the SMXmenu theme / feel.
+- The Main Menu player name has been hidden.
 
 ### CHANGES:
 - The old changelog system has been completely re-written and integrated into the new `News Screen`.
 - Created a new Main Menu background art.
+- The mouseover tooltips has received a small touch-up to it's sprites and colors.
+- The credits window has received a small touch-up to make the text easier to read.
 - Removed the A21 Main Menu animated background.
 - Introducing a new optional modlet with a new Main Menu video background created by Mumpfy for those that prefer an animated background.
+
 
 ### UPDATES:
 - Updated to Quartz v3.0.0.
@@ -27,3 +31,4 @@
 - Currently modding: The New Continue Game windows.
     - Next up: The Generate New World window.
       - Next up: The Options Menu.
+        - Next up: The progress window.
