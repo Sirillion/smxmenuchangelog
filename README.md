@@ -15,6 +15,7 @@
 - The Popup Message Box has been modded to fit the SMXmenu theme / feel.
 - The Main Menu player name has been hidden.
 - The New Game window has been modded to fit the SMXmenu theme / feel.
+- The Continue Game window has been modded to fit the SMXmenu theme / feel.
 
 ### CHANGES:
 - The old changelog system has been completely re-written and integrated into the new `News Screen`.
@@ -23,13 +24,15 @@
 - The credits window has received a small touch-up to make the text easier to read.
 - Removed the A21 Main Menu animated background.
 - Introducing a new optional modlet with a new Main Menu video background created by Mumpfy for those that prefer an animated background.
+- New artwork created by Mumpfy going into the loading screens.
 
 
 ### UPDATES:
 - Updated to Quartz v3.0.0.
 
 ### WORK IN PROGRESS:
-- Currently modding: The Continue Game windows.
-    - Next up: The Generate New World window.
+- Currently modding: The Generate New World window.
       - Next up: The Options Menu.
-        - Next up: The progress window.
+        - Next up: The Editing Tool Menu.
+          - Next up: The Progress window.
+            - Next up: The Server Browser.
