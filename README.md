@@ -6,24 +6,32 @@
 
 `Branch: Current Development - Released: UPCOMING`
 
-### ADDED:
-- The new News Screen has been modded to fit the SMXmenu theme / feel.
-  - `Latest Version` has been added to the News Screen. It will update when a new version of the SMX main modlets are released and you can click it to go directly to the download area.
-  - `Optional Modlets` has been added to the News Screen. It will update when a new version of the optional modlets are released and you can click it to go directly to the download area.
-  - Warnings for missing `SMXcore` or `Quartz` which without SMX will not work. They show up in the News Screen as a warning and on the Main Menu as an icon. Mouseover to see the message.
-- News Screen button added to the Main Menu.
-- The Popup Message Box has been modded to fit the SMXmenu theme / feel.
-- The Main Menu player name has been hidden.
-- The New Game window has been modded to fit the SMXmenu theme / feel.
-- The Continue Game window has been modded to fit the SMXmenu theme / feel.
+### CHANGES:
+- The Main Menu has been modded to fit the SMXmenu theme.
+  - New Main Menu background art has been added.
+    - The A21 Main Menu animated background has been removed.
+    - A new modlet has been added with a new Main Menu animated background created by Mumpfy for optional download.
+  - The color theme has been adjusted slightly.
+  - The new News Screen button has been added to the menu.
+  - The old changelog system has been completely re-written and integrated into the News Screen.
+  - A warning to tell you achievements will not work when in debug/creative mode has been added to the in-game menu.
+  - The player name has been hidden from the Main Menu.
+- The new News Screen has been modded to fit the SMXmenu theme.
+  - Latest Version has been added to the News Screen. It will show updates when a new version of the SMX main modlets are released and you can click it to go directly to the download area.
+  - Optional Modlets has been added to the News Screen. It will show updates when a new version of the optional modlets are released and you can click it to go directly to the download area.
+  - Warnings for missing SMXcore or Quartz which without SMX will not work. They show up in the News Screen as a warning and on the Main Menu as an icon. Mouseover to see the message.
+- The Popup Message Box has been modded to fit the SMXmenu theme.
+- The New Game window has been modded to fit the SMXmenu theme.
+- The Continue Game window has been modded to fit the SMXmenu theme.
+- The Options Menu has been modded to fit the SMXmenu theme.
+  - The new Controller Settings button has been added to the options menu.
+- The Progress Window has been modded to fit the SMXmenu theme.
+  - Added a 'Progress Indicator' to the window in the form of spinning cogs.
+
 
 ### CHANGES:
-- The old changelog system has been completely re-written and integrated into the new `News Screen`.
-- Created a new Main Menu background art.
 - The mouseover tooltips has received a small touch-up to it's sprites and colors.
 - The credits window has received a small touch-up to make the text easier to read.
-- Removed the A21 Main Menu animated background.
-- Introducing a new optional modlet with a new Main Menu video background created by Mumpfy for those that prefer an animated background.
 - New artwork created by Mumpfy going into the loading screens.
 
 
@@ -32,7 +40,6 @@
 
 ### WORK IN PROGRESS:
 - Currently modding: The Generate New World window.
-      - Next up: The Options Menu.
-        - Next up: The Editing Tool Menu.
-          - Next up: The Progress window.
-            - Next up: The Server Browser.
+  - Next up: The Editing Tool Menu.
+    - Next up: The Progress window.
+      - Next up: The Server Browser.
