@@ -45,5 +45,6 @@
 ### WORK IN PROGRESS:
 - Currently modding: The Generate New World window.
   - Next up: The Editing Tool Menu.
-    - Next up: The Progress window.
-      - Next up: The Server Browser.
+    - Next up: The General Options.
+      - Next up: The Video Options.
+        - Next up: The Audio Options.
