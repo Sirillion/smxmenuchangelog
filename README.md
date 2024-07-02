@@ -31,6 +31,7 @@
   - The Connect to IP panel has been given a facelift.
   - The EAC Warning panel has been given a facelift.
 - The Server Password window has been modded to fit the SMXmenu theme.
+- The Login Window has been modded to fit the SMXmenu theme.
 
 
 ### CHANGES:
