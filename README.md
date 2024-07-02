@@ -27,6 +27,10 @@
   - The new Controller Settings button has been added to the options menu.
 - The Progress Window has been modded to fit the SMXmenu theme.
   - Added a 'Progress Indicator' to the window in the form of spinning cogs.
+- The Server Windows has been modded to fit the SMXmenu theme. (Join A Game)
+  - The Connect to IP panel has been given a facelift.
+  - The EAC Warning panel has been given a facelift.
+- The Server Password window has been modded to fit the SMXmenu theme.
 
 
 ### CHANGES:
