@@ -32,7 +32,7 @@
   - The EAC Warning panel has been given a facelift.
 - The Server Password window has been modded to fit the SMXmenu theme.
 - The Login Windows has been modded to fit the SMXmenu theme. (Steam, PS5 & XBox)
-
+- The Generate New World window has been modded to fit the SMXmenu theme.
 
 ### CHANGES:
 - The mouseover tooltips has received a small touch-up to it's sprites and colors.
@@ -44,8 +44,8 @@
 - Updated to Quartz v3.0.0.
 
 ### WORK IN PROGRESS:
-- Currently modding: The Generate New World window.
-  - Next up: The Editing Tool Menu.
-    - Next up: The General Options.
-      - Next up: The Video Options.
-        - Next up: The Audio Options.
+- Currently modding: The Editing Tool Menu.
+  - Next up: The General Options.
+    - Next up: The Video Options.
+      - Next up: The Audio Options.
+        - Next up: The Data Management Window.
