@@ -2,7 +2,7 @@
   <img src="https://7dtd-community.s3.us-east-2.amazonaws.com/monthly_2022_01/a20_banner_forum.png.35ab78c870a912989f716f892c664a60.png" width="1080" title="SMXhud - A20">
 </p>
 
-## **v1.0.309.0**
+## **v1.0.312.0**
 
 `Branch: Current Development - Released: UPCOMING`
 
