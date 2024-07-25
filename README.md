@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://7dtd-community.s3.us-east-2.amazonaws.com/monthly_2022_01/a20_banner_forum.png.35ab78c870a912989f716f892c664a60.png" width="1080" title="SMXhud - A20">
+  <img src="https://7dtd-community.s3.us-east-2.amazonaws.com/monthly_2022_01/a20_banner_forum.png.35ab78c870a912989f716f892c664a60.png" width="1080" title="SMX">
 </p>
 
-## **v1.0.312.0**
+## **v1.0.333.0**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -33,6 +33,7 @@
 - The Server Password window has been modded to fit the SMXmenu theme.
 - The Login Windows has been modded to fit the SMXmenu theme. (Steam, PS5 & XBox)
 - The Generate New World window has been modded to fit the SMXmenu theme.
+- The Editing Tools Menu has been modded to fit the SMXmenu theme.
 
 ### CHANGES:
 - The mouseover tooltips has received a small touch-up to it's sprites and colors.
@@ -44,8 +45,7 @@
 - Updated to Quartz v3.0.0.
 
 ### WORK IN PROGRESS:
-- Currently modding: The Editing Tool Menu.
+- Currently modding: The Data Management Window.
   - Next up: The General Options.
     - Next up: The Video Options.
       - Next up: The Audio Options.
-        - Next up: The Data Management Window.
