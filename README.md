@@ -34,6 +34,8 @@
 - The Login Windows has been modded to fit the SMXmenu theme. (Steam, PS5 & XBox)
 - The Generate New World window has been modded to fit the SMXmenu theme.
 - The Editing Tools Menu has been modded to fit the SMXmenu theme.
+- The Loading Screen has been modded to fit the SMXmenu theme.
+  - The Loading Screen now contains custom backgrounds provided by Mumpfy.
 
 ### CHANGES:
 - The mouseover tooltips has received a small touch-up to it's sprites and colors.
@@ -49,3 +51,4 @@
   - Next up: The General Options.
     - Next up: The Video Options.
       - Next up: The Audio Options.
+        - Next up: The Player Profile.
