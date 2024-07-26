@@ -37,14 +37,14 @@
 - The Loading Screen has been modded to fit the SMXmenu theme.
   - The Loading Screen now contains custom backgrounds provided by Mumpfy.
 
-### CHANGES:
+
+### FIXES:
 - The mouseover tooltips has received a small touch-up to it's sprites and colors.
 - The credits window has received a small touch-up to make the text easier to read.
-- New artwork created by Mumpfy going into the loading screens.
 
 
 ### UPDATES:
-- Updated to Quartz v3.0.0.
+
 
 ### WORK IN PROGRESS:
 - Currently modding: The Data Management Window.
