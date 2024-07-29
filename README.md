@@ -2,9 +2,30 @@
   <img src="https://github.com/Sirillion/SMXnews/blob/main/changelogs/clsmxmenu.png" width="1080" title="SMXmenu">
 </p>
 
+## **v1.0.333.1**
+
+`Branch: Current Development - Released: Upcoming`
+
+### CHANGES:
+
+
+### FIXES:
+
+
+### UPDATES:
+
+
+### WORK IN PROGRESS:
+- Currently modding: Gears Support.
+  - Next up: The General Options.
+    - Next up: The Video Options.
+      - Next up: The Audio Options.
+        - Next up: The Player Profile.
+
+
 ## **v1.0.333.0**
 
-`Branch: Current Development - Released: UPCOMING`
+`Branch: Stable Release - Released: 29.07.2024`
 
 ### CHANGES:
 - The Main Menu has been modded to fit the SMXmenu theme.
@@ -46,9 +67,3 @@
 ### UPDATES:
 
 
-### WORK IN PROGRESS:
-- Currently modding: The Data Management Window.
-  - Next up: The General Options.
-    - Next up: The Video Options.
-      - Next up: The Audio Options.
-        - Next up: The Player Profile.
