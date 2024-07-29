@@ -23,6 +23,9 @@
         - Next up: The Player Profile.
 
 
+---
+
+
 ## **v1.0.333.0**
 
 `Branch: Stable Release - Released: 29.07.2024`
