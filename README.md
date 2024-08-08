@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sirillion/smxmenuchangelog/blob/main/20240728162244_1.jpg" width="1080" title="SMXmenu">
+  <img src="https://imgur.com/nWbZvFc.jpg" width="1080" title="SMXmenu">
 </p>
 
 ## **v1.0.333.1**
