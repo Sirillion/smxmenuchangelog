@@ -20,9 +20,9 @@
 ### WORK IN PROGRESS:
 - Currently modding: The General Options.
   - Next up: The Video Options.
-    - Next up: The Audio Options.
-      - Next up: The Player Profile.
-        - Next up: SCore Support.
+  - Next up: The Audio Options.
+  - Next up: The Player Profile.
+  - Next up: SCore Support.
 
 
 ---
