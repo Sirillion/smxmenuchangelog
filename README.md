@@ -22,7 +22,7 @@
   - Next up: The Video Options.
     - Next up: The Audio Options.
       - Next up: The Player Profile.
-        -Next up: SCore Support.
+        - Next up: SCore Support.
 
 
 ---
