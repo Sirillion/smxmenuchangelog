@@ -7,20 +7,22 @@
 `Branch: Current Development - Released: Upcoming`
 
 ### CHANGES:
-
+- Gears Support is now added to SMXmenu.
+  - The animated background by Mumpfy has now been added as a Gears setting.
+  - The animated background modlet has been removed.
 
 ### FIXES:
-
+- Fixed an issue in the main menu that caused the news screen to take seconds to load.
 
 ### UPDATES:
 
 
 ### WORK IN PROGRESS:
-- Currently modding: Gears Support.
-  - Next up: The General Options.
-    - Next up: The Video Options.
-      - Next up: The Audio Options.
-        - Next up: The Player Profile.
+- Currently modding: The General Options.
+  - Next up: The Video Options.
+    - Next up: The Audio Options.
+      - Next up: The Player Profile.
+        -Next up: SCore Support.
 
 
 ---
