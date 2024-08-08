@@ -9,7 +9,7 @@
 ### CHANGES:
 - Gears Support is now added to SMXmenu.
   - The animated background by Mumpfy has now been added as a Gears setting.
-  - The animated background modlet has been removed.
+    - zSMXmenuCP_ABG has now been removed as an optional download.
 
 ### FIXES:
 - Fixed an issue in the main menu that caused the news screen to take seconds to load.
