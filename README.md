@@ -2,9 +2,27 @@
   <img src="https://imgur.com/nWbZvFc.jpg" width="1080" title="SMXmenu">
 </p>
 
-## **v1.0.333.1**
+## **v1.0.333.2**
 
 `Branch: Current Development - Released: Upcoming`
+
+### CHANGES:
+
+### FIXES:
+
+### UPDATES:
+
+### WORK IN PROGRESS:
+- Currently modding: The General Options.
+  - Next up: The Video Options.
+  - Next up: The Audio Options.
+  - Next up: The Player Profile.
+  - Next up: SCore Support.
+
+
+## **v1.0.333.1**
+
+`Branch: Stable Release - Released: 10.08.2024`
 
 ### CHANGES:
 - Gears Support is now added to SMXmenu.
@@ -16,13 +34,6 @@
 - Fixed an issue in the main menu that caused the news screen to take seconds to load.
 
 ### UPDATES:
-
-### WORK IN PROGRESS:
-- Currently modding: The General Options.
-  - Next up: The Video Options.
-  - Next up: The Audio Options.
-  - Next up: The Player Profile.
-  - Next up: SCore Support.
 
 
 ---
