@@ -2,7 +2,7 @@
   <img src="https://imgur.com/nWbZvFc.jpg" width="1080" title="SMXmenu">
 </p>
 
-## **v1.0.333.2**
+## **v1.1.14.2**
 
 `Branch: Current Development - Released: Upcoming`
 
@@ -18,6 +18,21 @@
   - Next up: The Audio Options.
   - Next up: The Player Profile.
   - Next up: SCore Support.
+
+
+---
+
+
+## **v1.1.14.1**
+
+`Branch: Current Development - Released: Upcoming`
+
+### CHANGES:
+- Added the new button introduced with v1.1b14 that broke the modlet.
+  
+### FIXES:
+
+### UPDATES:
 
 
 ---
