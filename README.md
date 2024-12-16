@@ -29,7 +29,7 @@
 
 ### CHANGES:
 - Added changes to the different settings as introduced with 1.2.
-- Added new buttons to the different menues as intriduced with 1.2.
+- Added new buttons to the different menus as introduced with 1.2.
   
 ### FIXES:
 - Hopefully fixed some localization issues.
