@@ -23,7 +23,7 @@
 ---
 
 
-## **v1.1.14.1**
+## **v1.2.27.1**
 
 `Branch: Stable Release - Released: 16.12.2024`
 
