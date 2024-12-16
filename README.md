@@ -2,7 +2,7 @@
   <img src="https://imgur.com/nWbZvFc.jpg" width="1080" title="SMXmenu">
 </p>
 
-## **v1.1.14.2**
+## **v1.2.27.2**
 
 `Branch: Current Development - Released: Upcoming`
 
@@ -25,7 +25,24 @@
 
 ## **v1.1.14.1**
 
-`Branch: Current Development - Released: Upcoming`
+`Branch: Stable Release - Released: 16.12.2024`
+
+### CHANGES:
+- Added changes to the different settings as introduced with 1.2.
+- Added new buttons to the different menues as intriduced with 1.2.
+  
+### FIXES:
+- Hopefully fixed some localization issues.
+
+### UPDATES:
+
+
+---
+
+
+## **v1.1.14.1**
+
+`Branch: Stable Release - Released: 11.11.2024`
 
 ### CHANGES:
 - Added the new button introduced with v1.1b14 that broke the modlet.
