@@ -2,7 +2,7 @@
   <img src="https://imgur.com/nWbZvFc.jpg" width="1080" title="SMXmenu">
 </p>
 
-## **v1.2.27.2**
+## **v2.2.3.1**
 
 `Branch: Current Development - Released: Upcoming`
 
