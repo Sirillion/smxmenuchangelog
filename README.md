@@ -23,6 +23,21 @@
 ---
 
 
+## **v2.2.3.0**
+
+`Branch: Stable Release - Released: 27.08.2025`
+
+### CHANGES:
+- Added a separate section to host the exit button and the Gears modding button in the Main Menu.
+  
+### FIXES:
+
+### UPDATES:
+
+
+---
+
+
 ## **v1.2.27.1**
 
 `Branch: Stable Release - Released: 16.12.2024`
